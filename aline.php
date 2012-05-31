@@ -1,0 +1,3 @@
+<?
+echo "olá mundo";
+?>
